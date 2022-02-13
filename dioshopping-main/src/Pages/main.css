@@ -1,0 +1,19 @@
+body{
+
+    background-color: rgb(181, 243, 181);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.logotipo{
+    margin-left:5px;
+    color:#008000;
+    font-family:Arial;
+    font-size:40px;
+}
+
+.menu{
+
+    text-decoration:none;
+    color:#008000;
+    font-size: 20px;
+}
